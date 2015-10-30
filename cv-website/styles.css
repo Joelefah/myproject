@@ -1,0 +1,56 @@
+body {
+	font-family: Century Gothic, Times, serif;
+	font-weight: 200;
+	line-height: 1.5;
+}
+
+
+#summary{
+
+}
+
+a {
+display: inline;
+}
+
+
+
+section {
+	
+	display: incline-block;
+ }
+
+h1 {
+	
+	margin: 0;
+	padding: 0 .5em;
+	font-size: 48px;
+	height: 80px;
+	text-align: left;
+	background-image: url("C:/Users/Academy10/Desktop/myproject/cv-website/technology-002.jpg");
+	color: white;
+	font-family: Century Gothic;
+	padding: 13px;
+	border-radius: 12px;
+   }
+h3 .spacing {
+	line-height: 35px;
+ }
+
+#name, #email, #message {
+
+	display: block;
+	
+}
+
+
+hr {
+	color: #f00;
+	background-color: blue;
+	height: 5px;
+	border-radius: 5px
+}
+
+label {
+	line-height: 40px;
+}
